@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../Components/Header'
 
-function Ceo() {
+function ceo() {
 
     return (
 
@@ -10,5 +10,5 @@ function Ceo() {
     )
 }
 
-export default Ceo;
+export default ceo;
 

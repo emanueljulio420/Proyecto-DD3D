@@ -4,10 +4,11 @@ function Header() {
 
     return (
 
-<body>
+    <body>
 
-
-</body>
+        <h1>hola</h1>
+    
+    </body>
 
     )
 
