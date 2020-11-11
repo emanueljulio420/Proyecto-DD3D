@@ -1,14 +1,16 @@
 import React from 'react';
+import Copyright from '../Components/Copyright';
 import Header from '../Components/Header'
 
-function ceo() {
+function Ceo() {
 
     return (
-
-        <Header />
+        <div className="Ceo">
+            <Header />
+            <Copyright />
+        </div>
 
     )
 }
 
-export default ceo;
-
+export default Ceo;
