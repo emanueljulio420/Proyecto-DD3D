@@ -7,13 +7,13 @@ function Header() {
 
     <div>
         <div className="logo">
+        <br/><br/>
         <img className="" src={Logo} width="400" ></img>
         </div>
-
         <div className="hola">
-           <a href="#" className="no"> CEO </a>
-           <a href="#" className="no"> NUESTRA EMPRESA </a>
-           <a href="#" className="no"> COTIZADOR </a>
+           <button id="f"> CEO </button>
+           <button id="f"> NUESTRA EMPRESA </button>
+           <button id="f"> COTIZADOR </button>
         
          </div>
          

@@ -56,16 +56,6 @@ td{
    
    
 }
-.no{
-    color:black;
-    background-color: darkorange;
-    padding: 10px;
-    border-radius: 10px;
-    margin:50px;
-    font-size: 15px;
-    
-    
-}
 
 .logo{
     text-align:center;
@@ -82,4 +72,18 @@ td{
     margin-right: 410px;
     background-color: rgba(151, 138, 138, 0.363);
     border: 2px black solid;
+}
+
+#f{
+    color:black;
+    background-color:rgb(177, 59, 177);
+    padding: 5px 110px;
+    border-radius: 10px;
+    margin:50px;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+#f:hover{
+background-color:rgb(255, 166, 0);
 }
