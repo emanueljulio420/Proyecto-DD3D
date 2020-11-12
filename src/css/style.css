@@ -49,3 +49,37 @@ td{
     margin: 10px 50px; 
     
 }
+.hola{
+   text-align: center;
+    margin-top:30px ;
+    margin:50px
+   
+   
+}
+.no{
+    color:black;
+    background-color: darkorange;
+    padding: 10px;
+    border-radius: 10px;
+    margin:50px;
+    font-size: 15px;
+    
+    
+}
+
+.logo{
+    text-align:center;
+    margin-top:20px
+}
+
+.tablita{
+    margin: 5px;
+    padding: 5px;
+}
+
+.ta{
+    margin-left: 410px;
+    margin-right: 410px;
+    background-color: rgba(151, 138, 138, 0.363);
+    border: 2px black solid;
+}

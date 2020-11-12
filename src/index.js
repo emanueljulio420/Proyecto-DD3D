@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Ceo from './Pages/Ceo';
+import NuestraEmpresa from './Pages/NuestraEmpresa';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import $ from 'jquery';
@@ -14,7 +14,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min';
 
 ReactDOM.render(
   <>
-  <Ceo/>
+  <NuestraEmpresa/>
   </>,
   document.getElementById('root')
 );
