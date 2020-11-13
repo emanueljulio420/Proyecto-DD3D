@@ -87,3 +87,14 @@ td{
 #f:hover{
 background-color:rgb(255, 166, 0);
 }
+
+.letra{
+font-size: 15px;
+
+}
+#Y {
+background-color: rgba(175, 175, 175, 0.644) ;
+border: solid 2px black;
+border-radius: 5px;
+padding: 15px;
+}
