@@ -5,9 +5,9 @@ function NuestrosEmpleados(){
 
     return(
         
-        <div className="">
+        <div className="text-center">
         <br/><br/>
-        <h1 className="text-center">Nuestros Empleados</h1>
+        <h1 className="w">Nuestros Empleados</h1>
         <br/><br/>
         <table className="ta">
             <tr>

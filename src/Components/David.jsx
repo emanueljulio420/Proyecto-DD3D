@@ -9,7 +9,7 @@ function Header() {
             <img className="pepe" src={pepe} width="500"></img>
             <div className="textopepe">
                 <h1>Hola soy Carlos David Pérez</h1>
-                <p>Y SOY DISEÑADOR GRAFICO</p>
+                <p className="w">Y SOY DISEÑADOR GRAFICO</p>
                 <p>
                     ¡Hola! Si estás aquí, es porque quieres saber un poco más sobre mí, por eso, te voy a contar un poco quién soy, a qué me dedico, y cómo te puedo ayudar. 
                     <br/>

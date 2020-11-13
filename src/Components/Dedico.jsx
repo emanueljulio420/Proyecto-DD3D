@@ -7,7 +7,7 @@ function Dedico() {
         <div className="Dedico">
             <div className="monda">
                 <br/><br/>
-            <h2>¿ A qué me dedico ?</h2>
+            <h2 className="w">¿ A qué me dedico ?</h2>
             <p>
                 Actualmente, me dedico profesionalmente al diseño web con WordPress a tiempo completo.
                 Es un trabajo que me encanta y que me permite disfrutar, por fin, de pasar horas y horas

@@ -8,7 +8,7 @@ function NuestroEquipo() {
         <div className="nuestro">
             <div className="monda">
                 <br/><br/>
-            <h2> Nuestro Equipo</h2>
+            <h2 className="w"> Nuestro Equipo</h2>
             <p>
             Contamos con equipo experimentado comprometido con la calidad y certificado para la
             desarrollar productos de diseño gráficos de alta calidad.

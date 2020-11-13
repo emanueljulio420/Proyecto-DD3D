@@ -1,4 +1,5 @@
 import React from 'react';
+
 import Logo from '../img/Logo.jpeg';
 import '../css/style.css'
 
@@ -6,7 +7,7 @@ function Header() {
     return (
 
     <div>
-        <div className="logo">
+        <div className="logo ">
         <br/><br/>
         <img className="" src={Logo} width="400" ></img>
         </div>

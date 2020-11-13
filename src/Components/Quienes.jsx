@@ -12,7 +12,7 @@ function Quines() {
          <div className="textopepe">
             
             <h1>Quienes somos</h1>
-            <p>Diseño digital 3D</p>
+            <p className="w"> Diseño digital 3D</p>
             <p>
                Somos uno empresa Colombiana de Innovación y Diseño Digital ubicada en Medellín, Antioquía. 
                 <br/><br/>
