@@ -1,10 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-/*import Ceo from './Pages/Ceo'
-import NuestraEmpresa from './Pages/NuestraEmpresa';
-import Cotizador from './Pages/cotizador';
-import DetalleDelPedido from './Pages/DetalleDelPedido';*/
+
 
 import App from './Route/App'
 
