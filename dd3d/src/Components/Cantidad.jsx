@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import '../css/style.css'
 
 function Cantidad() {
@@ -14,11 +15,11 @@ function Cantidad() {
             <form>
                
             <div className="form-group">
-    <label for="">  Cantidad
+            <label for="">  Cantidad
     
-    <input type="email" className="form-control" id="exampleFormControlInput1" placeholder=""/>
-    </label>
-  </div>
+            <input type="email" className="form-control" id="exampleFormControlInput1" placeholder=""/>
+            </label>
+         </div>
                
                  <div className="form-group">
                         <label for="">Valor unitario
@@ -26,7 +27,7 @@ function Cantidad() {
                         
                         </input>
                         </label>
-                    </div>
+                </div>
 
                     <p className="letra">Valor total</p>
                 
@@ -36,9 +37,9 @@ function Cantidad() {
                         </label>
                     </div>
                     </form>
-
+                    <Link to="/detalle">
                     <button id="Y"> Enviar </button>   
-                
+                    </Link>
 
 </div>
 
